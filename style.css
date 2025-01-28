@@ -1,0 +1,33 @@
+#header1{
+    background-color: #8b451f;
+    padding: 100px;
+    text-align: center;
+    font-size: 50px;
+   
+   }
+.navy{
+    background-color:#d2a262 ;
+    padding: 10px;
+    text-align: center;
+}
+.navy a{
+    color: green;
+    margin: 0 15px;
+    font-size: 18px;
+}
+.header2{
+    background-color:#d2a262 ;
+
+}
+.text{
+    color:#592204 ;
+    margin-left: 20px;
+}
+.web{
+    color: #592204;
+    margin-left: 20px;
+}
+.copy{
+    text-align: center;
+    padding-bottom: 15px;
+}
